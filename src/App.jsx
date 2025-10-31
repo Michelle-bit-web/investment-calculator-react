@@ -15,7 +15,7 @@ function App() {
     saveUserInput((prevValues) => {
       return {
         ...prevValues,
-        [inputID]: newValue,
+        [inputID]: +newValue,
       };
     });
   }

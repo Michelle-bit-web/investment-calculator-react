@@ -59,7 +59,7 @@ The calculations update live via React state management without any need to refr
 
 1) **Clone and install**
 ```bash
-git clone https://github.com/yourusername/investment-calculator.git
+git clone https://github.com/Michelle-bit-web/investment-calculator-react
 cd investment-calculator
 npm install
 ```
